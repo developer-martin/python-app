@@ -1,2 +1,3 @@
 print("hello world")
-merhaba dünya
+print("hi guys")
+
