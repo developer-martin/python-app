@@ -1,2 +1,4 @@
 print("hello world")
-merhaba dünya
+print("merhaba dunya")
+print("C9271 Mustafa ekledi")
+
