@@ -1,2 +1,2 @@
 print("hello world")
-merhaba dünya
+merhaba dünya seni seviyorum
